@@ -37,4 +37,5 @@ Las complicaciones que tuvimos fueron:
 * Bug cuando saltaba la pantalla final.
 * El tamaño de la pantalla en si.
 * Crear el mapa.
+
 Aunque en el que realmente si hubo problemas fue en el movimiento del personaje.
