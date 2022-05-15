@@ -32,9 +32,9 @@ se te felicita. Ya despues para el mapa al azar simplemente se utilizo un random
 
 ## COMPLICACIONES
 Las complicaciones que tuvimos fueron:
-*Principalmente el movimiento de este.
-*Bug para cuando agarrabas la llave.
-*Bug cuando saltaba la pantalla final.
-*El tamaño de la pantalla en si.
-*Crear el mapa.
+* Principalmente el movimiento de este.
+* Bug para cuando agarrabas la llave.
+* Bug cuando saltaba la pantalla final.
+* El tamaño de la pantalla en si.
+* Crear el mapa.
 Aunque en el que realmente si hubo problemas fue en el movimiento del personaje.
